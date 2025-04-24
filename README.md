@@ -17,12 +17,14 @@ Currently based in the U.S., I'm on a journey to sharpen my skills in programmin
 
 ---
 
-## 🌟 Tech Stack
+## 💻 Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-black?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-black?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-black?logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-black?logo=java&logoColor=white)
+
 
 
 ---
